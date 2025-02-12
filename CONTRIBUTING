@@ -1,0 +1,27 @@
+**4. CONTRIBUTING.md (For Open Source Collaboration)**
+
+```markdown
+# Contributing to WebDev-StepByStep
+
+We appreciate your interest in contributing to WebDev-StepByStep!  Whether you're fixing a bug, adding an example, or improving the documentation, your contributions are valuable.
+
+## How to Contribute
+
+1.  **Fork:** Fork the repository to your own GitHub account.
+2.  **Clone:** Clone your forked repository to your local machine.
+3.  **Create a Branch:** Create a new branch for your changes (e.g., `feature/add-html-examples`).
+4.  **Make Changes:** Make your changes to the code or documentation.
+5.  **Commit:** Commit your changes with a clear and concise message.
+6.  **Push:** Push your branch to your forked repository.
+7.  **Pull Request:** Submit a pull request to the main repository.
+
+## Guidelines
+
+*   Follow the existing code style and conventions.
+*   Write clear and concise commit messages.
+*   If you're adding new code, please include relevant tests.
+*   Be respectful and considerate in your interactions.
+
+## Questions?
+
+If you have any questions, feel free to open an issue or reach out to us.
