@@ -1,53 +1,43 @@
-# WebDev-StepByStep 
+# WebDev-StepByStep
 
-## Eine umfassende Anleitung für angehende Webentwickler ‍
+## A Comprehensive Guide for Aspiring Web Developers
 
-Dieses Repository ist ein Schritt-für-Schritt-Leitfaden für alle, die Webentwicklung von Grund auf lernen möchten. Es bietet eine Einführung in die wichtigsten Konzepte und Technologien, die du für die Entwicklung moderner Webanwendungen benötigst.
+This repository is a step-by-step guide for anyone who wants to learn web development from scratch. It provides an introduction to the most important concepts and technologies you need to build modern web applications.
 
-## Inhaltsverzeichnis 
+## Table of Contents
 
-*   **HTML**: Grundlagen der Strukturierung von Webseiten 
-*   **CSS**: Gestaltung und Design von Webseiten 
-*   **JavaScript**: Interaktivität und Funktionalität von Webseiten ⚙️
-*   **Frontend-Frameworks**: Einführung in React, Angular oder Vue.js (je nach Fokus) ⚛️
-*   **Backend-Grundlagen**: Einführung in Node.js, Python/Django oder Ruby on Rails (je nach Fokus) ⚙️
-*   **Datenbanken**: Grundlagen von SQL- und NoSQL-Datenbanken ️
-*   **Deployment**: Veröffentlichen deiner Webanwendungen 
+*   **HTML**: Basics of structuring web pages
+*   **CSS**: Styling and design of web pages
+*   **JavaScript**: Interactivity and functionality of web pages
+*   **Frontend Frameworks**: Introduction to React, Angular, or Vue.js (depending on focus)
+*   **Backend Basics**: Introduction to Node.js, Python/Django, or Ruby on Rails (depending on focus)
+*   **Databases**: Basics of SQL and NoSQL databases
+*   **Deployment**: Publishing your web applications
 
-## Zielgruppe 
+## Target Audience
 
-Dieses Repository richtet sich an:
+This repository is aimed at:
 
-*   **Anfänger**: Personen ohne Vorkenntnisse in der Webentwicklung 
-*   **Quereinsteiger**: Entwickler aus anderen Bereichen, die sich im Webbereich weiterbilden möchten ‍
-*   **Studenten**: Studierende, die ihr Wissen in der Webentwicklung vertiefen möchten 
+*   **Beginners**: People with no prior knowledge of web development
+*   **Career Changers**: Developers from other areas who want to learn web development
+*   **Students**: Students who want to deepen their knowledge in web development
 
-## Wie man dieses Repository nutzt 
+## How to Use this Repository
 
-1.  Klone das Repository auf deinen lokalen Rechner: `git clone https://github.com/MaxDraws/WebDev-StepByStep.git`
-2.  Navigiere zum jeweiligen Ordner (z.B. `HTML`, `CSS`, `JavaScript`), um die entsprechenden Lektionen und Beispiele zu finden.
-3.  Folge den Anleitungen und Übungen, um dein Wissen zu festigen.
+1.  Clone the repository to your local machine: `git clone https://github.com/MaxDraws/WebDev-StepByStep.git`
+2.  Navigate to the respective folder (e.g. `HTML`, `CSS`, `JavaScript`) to find the corresponding lessons and examples.
+3.  Follow the instructions and exercises to solidify your knowledge.
 
-## Beispiele 
+## Examples
 
-*   **HTML**: Erstellung einer einfachen Webseite mit Überschriften, Absätzen und Bildern
-*   **CSS**: Gestaltung einer Webseite mit Farben, Schriftarten und Layouts
-*   **JavaScript**: Hinzufügen von interaktiven Elementen wie Buttons und Formularen
+*   **HTML**: Creating a simple web page with headings, paragraphs, and images
+*   **CSS**: Styling a web page with colors, fonts, and layouts
+*   **JavaScript**: Adding interactive elements like buttons and forms
 
-## Mitwirken 
+## Contributing
 
-Beiträge und Verbesserungen sind willkommen! Bitte erstelle einen Pull Request oder melde ein Issue, wenn du Fehler findest oder Vorschläge hast.
+Contributions and improvements are welcome! Please create a pull request or submit an issue if you find any errors or have suggestions.
 
-## Lizenz 
+## License
 
-MIT-Lizenz (siehe LICENSE-Datei)
-
-## Badges hinzufügen 
-
-Du kannst deinem Repository auch Badges hinzufügen, um es noch attraktiver zu gestalten. Hier sind einige Beispiele:
-
-*   **Build-Status**: Zeigt den Status der Continuous Integration (CI) an (z.B. mit GitHub Actions oder GitLab CI/CD).
-*   **Code-Qualität**: Zeigt die Code-Qualität an (z.B. mit CodeClimate oder SonarQube).
-*   **Lizenz**: Zeigt die verwendete Lizenz an (z.B. mit einem Badge von shields.io).
-
-Du kannst Badges zu deiner README-Datei hinzufügen, indem du den entsprechenden Markdown-Code einfügst. Eine große Auswahl an Badges findest du auf [shields.io](https://shields.io/).
+MIT License (see LICENSE file)
